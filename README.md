@@ -1,4 +1,38 @@
-### Hi there 👋
+<h1>Hi, I'm Ezekiel!
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+ -[Active Directory Home lab]
+
+<h2>Certification</h2>
+
+-[Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/MZJNMWGL4E97)
+
+<h2>📺 Popular Linkedin Blog</h2>
+
+- [A Comprehensive Guide to User and Group Management with Real-World Application](https://www.linkedin.com/pulse/mastering-active-directory-comprehensive-guide-user-group-libara-sbpqe%3FtrackingId=wVlIVk1iR8aZ8y1%252FHel8zw%253D%253D/?trackingId=wVlIVk1iR8aZ8y1%2FHel8zw%3D%3D)
+- [Create Office 365 user from the portal](https://www.linkedin.com/pulse/create-office-365-user-from-portal-ezekiel-libara-ybsse%3FtrackingId=hc1Ds5pHSGG10OFPLahRwQ%253D%253D/?trackingId=hc1Ds5pHSGG10OFPLahRwQ%3D%3D)
+- [Azure Fundamentals Project @Jobskillshare](https://www.linkedin.com/pulse/azure-fundamentals-project-jobskillshare-ezekiel-libara-jm1kf%3FtrackingId=sSF33fOcu6jWOL%252FSk6hF7Q%253D%253D/?trackingId=sSF33fOcu6jWOL%2FSk6hF7Q%3D%3D)
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[linkedin]: https://www.linkedin.com/in/ezekiellibara1982
+
+<!--
+**zekiellibara1982/zekiellibara1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <!--
 **zekiellibara1982/Zekiellibara1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
